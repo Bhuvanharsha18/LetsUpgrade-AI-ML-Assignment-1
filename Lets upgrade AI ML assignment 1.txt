@@ -1,0 +1,13 @@
+Question : Explain machine learning with your own example?
+
+Answer:  Machine Learning (ML) is a subset or branch of Artificial Intelligence(AI) which consists of all the staatistical tools to automate the machine to learn from 
+the data sets on its own.
+Simply Machine learning is the science of getting computers to act without being explicitly programmed. 
+In today's world ML is becoming part and parcel of our daily life. Right from watches to computers every thing is becoming smart by using AI(indirectly t(he ML).
+ML has an another subset called as deep learning which is used to mimick the human brain by using the mathemetical models and Natural Language Processing(NLP)
+
+Example of ML : Self Driving Cars
+Probably there are none who doesnt know tesla-the largest self driving car makers. The self driving or autonomous cars use the ML technology for making their car 
+autonomous. Specifically the concepts used are computer vision which comes under the Convolution Neural Networks(CNN). The machine takes a lot of data sets and 
+work on them. They store the results of the tests and this makes the vehicle to act on its own without further coding. The machine can get better if it has sufficient 
+amount of data to act upon.  
